@@ -7,7 +7,7 @@ Features
 2. Red vector rectangles
 3. No original file modification
 
-Step 2: Installation of Dependencies:
+Step 1: Installation of Dependencies:
 !pip install PyMuPDF
 !pip install pytesseract
 !sudo apt install tesseract-ocr
